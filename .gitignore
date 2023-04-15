@@ -1,0 +1,16 @@
+node_modules
+
+.env
+
+.zshrc
+
+./src/tradedata.json
+
+./artifacts
+./cache
+
+artifacts
+
+cache
+
+src/erc721.json
